@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\bin\Debug\net6.0\001_дз.exe
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\bin\Debug\net6.0\001_дз.deps.json
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\bin\Debug\net6.0\001_дз.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\bin\Debug\net6.0\001_дз.dll
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\bin\Debug\net6.0\001_дз.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.dll
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\refint\001_дз.dll
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\001_дз.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\ДЗ\001_дз\obj\Debug\net6.0\ref\001_дз.dll
